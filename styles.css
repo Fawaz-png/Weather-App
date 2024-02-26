@@ -1,0 +1,29 @@
+body {
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+p{
+    font-size: 18px;
+}
+
+.container {
+    max-width: 400px;
+}
+
+button {
+    border: none;
+    border-radius: 7%;
+}
+
+
+button:hover {
+    background: none;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+}
