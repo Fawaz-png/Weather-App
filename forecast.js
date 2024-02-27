@@ -1,6 +1,6 @@
 
 const apiKey = "IRBCeej2F2l2QAclPbxzUXpaOFDv8KGg"
-const baseUrl = "http://dataservice.accuweather.com";
+const baseUrl = "https://dataservice.accuweather.com";
 
 const getCity = async (city) => {
     try {
